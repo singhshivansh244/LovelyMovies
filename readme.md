@@ -4,3 +4,7 @@
 
     - HTML, CSS
     -Vanilla JS
+    
+<img src="/MainPage1.png">
+<img src="/MainPage2.png">
+<img src="/SearchResult.png">
